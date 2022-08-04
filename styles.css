@@ -1,0 +1,271 @@
+h1 {
+    font-family: 'Oswald',
+    sans-serif;
+    font-weight: 600;
+    font-size: 60px;
+}
+
+h2 {
+    font-family: 'Oswald',
+    sans-serif;
+    font-weight: 600;
+}
+
+h4 {
+    font-family: 'Oswald',
+    sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+p {
+    font-family: 'Lato',
+    sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.beauty-txt {
+    font-size: 20px;
+}
+
+.smaller {
+    font-size: 15px;
+}
+
+.mod-txt {
+    font-family: 'Open Sans',
+    sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.small-txt {
+    font-size: 15px;
+}
+
+.custom-padding {
+    padding: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.white-bg {
+    background-color: #fff;
+}
+
+.orange-bg {
+    background-color: #F43332;
+}
+
+.orange-txt {
+    color: #F43332;
+}
+
+.blue-bg {
+    background-color: #00001D;
+}
+
+.custom-height {
+    height: 100px;
+}
+
+.block {
+    display: inline;
+}
+
+.total-height {
+    height: 100%;
+}
+
+.spaced {
+    height: 35px;
+}
+
+.circle {
+    border-radius: 20%;
+}
+
+.circled {
+    padding: 25px;
+    border-radius: 50%;
+    margin-left: 45rem;
+}
+
+.light-bg {
+    background-color: #504B64;
+}
+
+.z-index-0 {
+    z-index: 0;
+}
+
+.z-index-1 {
+    z-index: 1;
+}
+
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.custom-margin {
+    margin-top: 320px;
+    margin-left: 5px;
+    background-color: #00001D;
+}
+
+.custom-margin-2 {
+    margin-top: 320px;
+    margin-left: 180px;
+    background-color: #00001D;
+}
+
+.custom-margin-3 {
+    margin-top: -410px;
+    margin-left: 210px;
+    background-color: #00001D;
+}
+
+.custom-margin-4 {
+    margin-top: -410px;
+    margin-left: 10px;
+}
+
+.extra-margin {
+    margin-right: 400px;
+}
+
+.mod-padding {
+    padding: 13px 5px;
+    border-radius: 0%;
+}
+
+.margin-right {
+    margin-right: 250px;
+}
+
+.neg-margin {
+    margin-left: -360px;
+}
+
+.margin-right-p {
+    margin-right: 120px;
+}
+
+
+.margin-right-p1 {
+    margin: 20px 500px;
+    margin-left: 60px;
+}
+
+.margin-right-p2 {
+    margin-top: 80px;
+    margin-right: 260px;
+}
+
+.custom-bg {
+    background-color: #fff;
+    color: #F43332;
+    margin-left: 25px;
+    padding: 5px 20px;
+}
+
+.carousel-indicators [data-bs-target] {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    margin: 0px 5px;
+}
+
+.mod-position {
+    position: absolute;
+    top: 170px;
+    left: -93px;
+}
+
+.more-margin {
+    margin-top: 80px;
+}
+
+.mod-footer{
+    color: rgb(99, 106, 125);
+    margin-top: 70px;
+}
+
+.mrg {
+    padding: 0px;
+}
+
+.colored {
+    color: rgb(99, 106, 125);
+}
+
+.dark-blue-bg {
+    background-color: #000014;
+}
+
+.navbar-txt {
+    font-family: 'Open Sans',
+    sans-serif;
+    font-size: 17px;
+}
+
+.centered-item {
+    margin-left: 920px;
+    margin-top: -210px;
+}
+
+.centered-item1 {
+    margin-left: 870px;
+    margin-top: 10px;
+}
+
+.bigger {
+    font-size: 20px;
+}
+
+.card {
+    border: 0;
+}
+
+.bi-eye-fill {
+    font-size: 16px;
+}
+
+.bi-chat-fill {
+    font-size: 16px;
+}
+
+.mod-card {
+    height: 2500px;
+}
+
+.card-txt {
+    font-family: 'Open Sans',
+    sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    margin-left: 120px;
+    margin-top: -100px;
+}
+
+.icon-position-1 {
+    margin-top: 440px;
+    margin-left: -360px;
+}
+
+.date-position-1 {
+    margin-top: -137px;
+    margin-left: 250px;
+}
+
+.date-txt {
+    font-family: 'Open Sans',
+    sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
